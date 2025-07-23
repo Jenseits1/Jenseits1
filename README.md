@@ -6,7 +6,7 @@
 - 📺 Huge fan of *Game of Thrones*, animes, and online games — always excited to dive into deep, nerdy conversations about them!
 
 ### 🛠️ Programming Languages
-Java · JavaScript / TypeScript · Python · Rust
+Java · JavaScript · TypeScript · Python · Rust
 
 ### 📚 Interests
 Compilers and Interpreters · Computer Science · Software Engineering
