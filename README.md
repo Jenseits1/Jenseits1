@@ -1,12 +1,12 @@
 
 ### 🧾 About
-🧠 Loves exploring how computers work under the hood  
-🔍 Enjoys digging into everything from bits and bytes to language design  
-🧪 Builds things from scratch to understand how high-level features are made  
-⚡ Likes doing things *differently*, challenging defaults and conventions
+- 💻 Passionate about computer science and understanding how computers work — from low-level bits to language design  
+- 🛠️ Enjoys building things from scratch to learn how complex systems are made  
+- 🧭 Thinks differently — challenges defaults and explores unconventional paths  
+- 📺 Huge fan of *Game of Thrones*, animes, and online games — always excited to dive into deep, nerdy conversations about them!
 
 ### 🛠️ Programming Languages
 Java · JavaScript / TypeScript · Python · Rust
 
 ### 📚 Interests
-Compilers · Interpreters · Computer Science · Software Engineering
+Compilers and Interpreters · Computer Science · Software Engineering
