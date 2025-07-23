@@ -1,6 +1,6 @@
 
 ### 🧾 About
-Passionate about computer science and understanding how computers work, from low-level bits to language design  
+Passionate about computer science and how computers work, from low-level architecture to the design of programming languages
 
 ### 🛠️ Programming Languages
 Java · JavaScript · TypeScript · Python · Rust
