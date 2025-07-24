@@ -1,10 +1,8 @@
 ![yourlieinapril](kaori.webp)
 
-### About
-<hr>
+## About
 Passionate about computer science and system-level concepts, from low-level architecture to the design of programming languages  
 
 
-### Interests
-<hr>
+## Interests
 Compilers and Interpreters · Computer Science · Software Engineering  
