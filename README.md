@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jenseits1/Jenseits1/main/kaori.gif" alt="Kaori">
-</p>
+![yourlieinapril](kaori.gif)
 
 ### 🧾 About
 Passionate about computer science and system-level concepts, from low-level architecture to the design of programming languages
