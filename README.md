@@ -4,4 +4,4 @@
 Passionate about computer science and system-level concepts, from low-level architecture to the design of programming languages 
 
 ## Interests
-💻 Software Engineering · 🧮 Computer Science · ⚙️ Compilers and Interpreters
+Software Engineering · Computer Science · Compilers and Interpreters
